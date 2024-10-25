@@ -1,7 +1,9 @@
 ### Holaa!! 😼✨
-#### I’m a Computer Science student at Tecnológico de Monterrey. 🇲🇽💙⚡️ Currently I'm having a year abroad as a student at the **Apple Developer Academy** at Università degli Studi di Napoli Federico II. 👩🏻‍💻🇮🇹
+#### ⚡️ I'm a Computer Science student at Tecnológico de Monterrey. 🇲🇽💙 
 
-#### ⭐️ I'm a Mexican developer who loves learning, connecting art with code, and building things that make people happy.
+#### 🌱 Currently I'm having a year abroad as a student at the **Apple Developer Academy** at Università degli Studi di Napoli Federico II. 👩🏻‍💻🇮🇹
+
+#### ⭐️ I love learning, connecting art with code, and building things that make people happy.
 
 #### 🌈 Big fan of games, beautiful design, and bringing ideas to life with: 
 
